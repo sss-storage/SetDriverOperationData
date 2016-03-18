@@ -45,4 +45,4 @@ Entire policy:
 ```
 
 Action should look like the following:
-<img src="actions.png>
+<img src="actions.png">
